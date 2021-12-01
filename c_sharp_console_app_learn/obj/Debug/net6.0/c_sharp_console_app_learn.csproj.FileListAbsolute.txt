@@ -1,0 +1,15 @@
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\c_sharp_console_app_learn.exe
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\c_sharp_console_app_learn.deps.json
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\c_sharp_console_app_learn.runtimeconfig.json
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\c_sharp_console_app_learn.dll
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\ref\c_sharp_console_app_learn.dll
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\bin\Debug\net6.0\c_sharp_console_app_learn.pdb
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.csproj.AssemblyReference.cache
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.AssemblyInfoInputs.cache
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.AssemblyInfo.cs
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.dll
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\ref\c_sharp_console_app_learn.dll
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.pdb
+C:\Users\Arun\source\repos\c_sharp_console_app_learn\c_sharp_console_app_learn\obj\Debug\net6.0\c_sharp_console_app_learn.genruntimeconfig.cache
