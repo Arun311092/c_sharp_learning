@@ -22,6 +22,14 @@ namespace c_sharp_console_app_learn
             {
                 Console.WriteLine(d.Key + " " + d.Value);
             }
+
+            ht["ora"] = "Oracle 2"; //update
+            ht.Remove("asp");
+
+            foreach (DictionaryEntry d in ht)
+            {
+                Console.WriteLine(d.Key + " " + d.Value);
+            }
         }
     }
 }
