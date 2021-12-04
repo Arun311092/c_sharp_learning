@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>c_sharp_console_app_learn._22_async_await_sequenced.Program</StartupObject>
+    <StartupObject>c_sharp_console_app_learn._22_async_await_exception.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
