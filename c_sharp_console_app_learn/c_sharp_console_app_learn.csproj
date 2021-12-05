@@ -5,7 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>c_sharp_console_app_learn._19_in_out_ref</StartupObject>
+    <StartupObject>c_sharp_console_app_learn._23_sqlite_pkg</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.115.5" />
+  </ItemGroup>
 
 </Project>
