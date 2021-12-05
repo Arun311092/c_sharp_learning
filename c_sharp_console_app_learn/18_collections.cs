@@ -13,7 +13,7 @@ namespace c_sharp_console_app_learn
         static void Main(string[] args)
         {
             Hashtable ht = new Hashtable();
-            ht.Add("ora", "oracle");
+            ht.Add("ora", "oracle");    //insert
             ht.Add("vb", "vb.net");
             ht.Add("cs", "cs.net");
             ht.Add("asp", "asp.net");
@@ -24,7 +24,7 @@ namespace c_sharp_console_app_learn
             }
 
             ht["ora"] = "Oracle 2"; //update
-            ht.Remove("asp");
+            ht.Remove("asp");       //delete
 
             foreach (DictionaryEntry d in ht)
             {
