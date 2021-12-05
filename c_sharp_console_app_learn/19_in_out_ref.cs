@@ -9,28 +9,30 @@ namespace c_sharp_console_app_learn
     internal class _19_in_out_ref
     {
 
-        public static void update(out int a)    //modification must
+        public static void reassign(out int a)    //modification must
         {
-            a = 10;
+            a = 6;
         }
         public static void change(ref int d)    //modification not nust
         {
-            d = 11;
+            d++;
         }
-        public static void show(in int d)    //modification not allowed
+        public static void show(in int c)    //modification not allowed
         {
-            Console.WriteLine(d);
+            Console.WriteLine(c);
         }
 
         public static void Main()
         {
-            int b;
-            int c = 9;
-            update(out b);
-            change(ref c);
-            show(in b);
-            Console.WriteLine("Updated value is: {0}", b);
-            Console.WriteLine("Changed value is: {0}", c);
+            int a = 0;
+            int b = 1;
+            int c = 2;
+            reassign(out a);
+            change(ref b);
+            show(in c);
+            Console.WriteLine("Updated value is: {0}", a);
+            Console.WriteLine("Changed value is: {0}", b);
+            Console.WriteLine("Shown value is: {0}", c);
         }
 
     }
